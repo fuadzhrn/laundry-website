@@ -95,6 +95,7 @@ http://localhost/Laundry
 |-------|----------|-----------|
 | Admin | `admin`  | `admin123`|
 | User  | `budi`   | `user123` |
+fuasaauau
 
 > Jika login gagal, generate ulang hash password via PHP:
 > ```php
