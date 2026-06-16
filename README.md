@@ -47,7 +47,7 @@ Laundry/
     ├── js/script.js        ← JavaScript utama
     └── img/                ← Folder gambar
 ```
-
+daadawdwadwaaw
 ---
 
 ## Cara Menjalankan
